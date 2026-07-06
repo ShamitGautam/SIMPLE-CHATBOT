@@ -1,0 +1,5 @@
+com\chatbot\model\ChatMessage$Part.class
+com\chatbot\model\ChatMessage.class
+com\chatbot\ChatbotApplication.class
+com\chatbot\service\GeminiService.class
+com\chatbot\controller\ChatController.class
